@@ -26,10 +26,10 @@ client.on('ready', () => {
 });
 
 
-client.on("guildMemberAdd", member => {
-  member.createDM().then(function (channel) {
-  return channel.send(` 
-**  ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+client.on("guildMemberRemove", member => {
+  member.send(`
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
 ➤ Tier: I
 ➤ Invites: 10 
@@ -58,197 +58,11 @@ client.on("guildMemberAdd", member => {
 ➤ Tier: V
 ➤ Invites: 100 
 ➤ Credit: 150K :yen: 
-https://discord.gg/SGcdsS  ${member}  
-**`) 
-}).catch(console.error)
-})
+https://discord.gg/SGcdsS
+[${member}]`);
 
-client.on("guildMemberAdd", member => {
-  member.createDM().then(function (channel) {
-  return channel.send(` 
-**▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-
-➤ Tier: I
-➤ Invites: 10 
-➤ Credit: 10K :yen: 
-
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-
-➤ Tier: II
-➤ Invites: 25 
-➤ Credit: 30K :yen: 
-
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-
-➤ Tier: III
-➤ Invites: 50 
-➤ Credit: 70K :yen: 
-
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-
-➤ Tier: IV
-➤ Invites: 75
-➤ Credit: 100K :yen: 
-
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-
-➤ Tier: V
-➤ Invites: 100 
-➤ Credit: 150K :yen: 
-https://discord.gg/SGcdsS ${member}  
-**`) 
-}).catch(console.error)
-})
-
-client.on("guildMemberAdd", member => {
-  member.createDM().then(function (channel) {
-  return channel.send(` 
-**▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-
-➤ Tier: I
-➤ Invites: 10 
-➤ Credit: 10K :yen: 
-
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-
-➤ Tier: II
-➤ Invites: 25 
-➤ Credit: 30K :yen: 
-
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-
-➤ Tier: III
-➤ Invites: 50 
-➤ Credit: 70K :yen: 
-
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-
-➤ Tier: IV
-➤ Invites: 75
-➤ Credit: 100K :yen: 
-
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-
-➤ Tier: V
-➤ Invites: 100 
-➤ Credit: 150K :yen: 
-https://discord.gg/SGcdsS ${member}  
-**`) 
-}).catch(console.error)
-})
-
-
-client.on("guildMemberAdd", member => {
-  member.createDM().then(function (channel) {
-  return channel.send(` 
-**▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-
-➤ Tier: I
-➤ Invites: 10 
-➤ Credit: 10K :yen: 
-
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-
-➤ Tier: II
-➤ Invites: 25 
-➤ Credit: 30K :yen: 
-
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-
-➤ Tier: III
-➤ Invites: 50 
-➤ Credit: 70K :yen: 
-
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-
-➤ Tier: IV
-➤ Invites: 75
-➤ Credit: 100K :yen: 
-
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-
-➤ Tier: V
-➤ Invites: 100 
-➤ Credit: 150K :yen: 
-https://discord.gg/SGcdsS  ${member}  
-**`) 
-}).catch(console.error)
-})
-
-client.on("guildMemberAdd", member => {
-  member.createDM().then(function (channel) {
-  return channel.send(` 
-**▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-
-➤ Tier: I
-➤ Invites: 10 
-➤ Credit: 10K :yen: 
-
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-
-➤ Tier: II
-➤ Invites: 25 
-➤ Credit: 30K :yen: 
-
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-
-➤ Tier: III
-➤ Invites: 50 
-➤ Credit: 70K :yen: 
-
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-
-➤ Tier: IV
-➤ Invites: 75
-➤ Credit: 100K :yen: 
-
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-
-➤ Tier: V
-➤ Invites: 100 
-➤ Credit: 150K :yen: 
-https://discord.gg/SGcdsS  ${member}  
-**`) 
-}).catch(console.error)
-})
-
-client.on("guildMemberAdd", member => {
-  member.createDM().then(function (channel) {
-  return channel.send(` 
-**▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-
-➤ Tier: I
-➤ Invites: 10 
-➤ Credit: 10K :yen: 
-
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-
-➤ Tier: II
-➤ Invites: 25 
-➤ Credit: 30K :yen: 
-
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-
-➤ Tier: III
-➤ Invites: 50 
-➤ Credit: 70K :yen: 
-
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-
-➤ Tier: IV
-➤ Invites: 75
-➤ Credit: 100K :yen: 
-
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-
-➤ Tier: V
-➤ Invites: 100 
-➤ Credit: 150K :yen: 
-https://discord.gg/SGcdsS ${member}  
-**`) 
-}).catch(console.error)
-})
-
+  });
+ 
 
 
 client.login("NDc5MzI4NDUwNTc0ODExMTU4.DnmdGw.qU7u5MTfa-FrI0h8vwqrag-R0kU")

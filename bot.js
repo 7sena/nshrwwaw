@@ -31,34 +31,24 @@ client.on("guildMemberRemove", member => {
   member.send(`
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
-➤ Tier: I
+
 ➤ Invites: 10 
-➤ Credit: 10K :yen: 
+➤ Credit: 5K :yen: 
 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
-➤ Tier: II
 ➤ Invites: 25 
-➤ Credit: 30K :yen: 
+➤ Credit: 15K :yen: 
 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
-➤ Tier: III
+
 ➤ Invites: 50 
-➤ Credit: 70K :yen: 
+➤ Credit: 50K :yen: 
 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
-➤ Tier: IV
-➤ Invites: 75
-➤ Credit: 100K :yen: 
-
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-
-➤ Tier: V
-➤ Invites: 100 
-➤ Credit: 150K :yen: 
-https://discord.gg/SGcdsS
+https://discord.gg/JVYemC
 [${member}]`);
 
   });
@@ -67,34 +57,24 @@ https://discord.gg/SGcdsS
   member.send(`
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
-➤ Tier: I
+
 ➤ Invites: 10 
-➤ Credit: 10K :yen: 
+➤ Credit: 5K :yen: 
 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
-➤ Tier: II
 ➤ Invites: 25 
-➤ Credit: 30K :yen: 
+➤ Credit: 15K :yen: 
 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
-➤ Tier: III
+
 ➤ Invites: 50 
-➤ Credit: 70K :yen: 
+➤ Credit: 50K :yen: 
 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
-➤ Tier: IV
-➤ Invites: 75
-➤ Credit: 100K :yen: 
-
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-
-➤ Tier: V
-➤ Invites: 100 
-➤ Credit: 150K :yen: 
-https://discord.gg/SGcdsS
+https://discord.gg/JVYemC
 [${member}]`);
 
 

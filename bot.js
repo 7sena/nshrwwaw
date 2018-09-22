@@ -28,57 +28,55 @@ client.on('ready', () => {
 
 
 client.on("guildMemberRemove", member => {
-  member.send(`
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+  member.send(`**
+15 invite =  10 View in youtube 
+30 invite = 20 View in youtube  
+60 invite = 50 View in youtube 
+100 invite = 100 View in youtube 
 
+20 like YT = 20 invite 
+50 like YT = 50 invite
+100 like YT = 100 invite 
 
-➤ Invites: 10 
-➤ Credit: 5K :yen: 
+20 sub YT = 20 invite 
+50 sub YT = 50 invite 
+100 sub YT = 100 invite
 
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+100 invite = 1$
+1000 invite = 20 $
 
-➤ Invites: 25 
-➤ Credit: 15K :yen: 
-
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-
-
-➤ Invites: 50 
-➤ Credit: 50K :yen: 
-
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-
-https://discord.gg/JVYemC
-[${member}]`);
-
-  });
- 
-  client.on('guildMemberAdd', member => {
-  member.send(`
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-
-
-➤ Invites: 10 
-➤ Credit: 5K :yen: 
-
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-
-➤ Invites: 25 
-➤ Credit: 15K :yen: 
-
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-
-
-➤ Invites: 50 
-➤ Credit: 50K :yen: 
-
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-
-https://discord.gg/JVYemC
+https://discord.gg/pfZeuG
+@everyone || @here 
+**
 [${member}]`);
 
 
   });
 
+client.on("guildMemberAdd", member => {
+  member.send(`**
+15 invite =  10 View in youtube 
+30 invite = 20 View in youtube  
+60 invite = 50 View in youtube 
+100 invite = 100 View in youtube 
+
+20 like YT = 20 invite 
+50 like YT = 50 invite
+100 like YT = 100 invite 
+
+20 sub YT = 20 invite 
+50 sub YT = 50 invite 
+100 sub YT = 100 invite
+
+100 invite = 1$
+1000 invite = 20 $
+
+https://discord.gg/pfZeuG
+@everyone || @here 
+**
+[${member}]`);
+
+
+  });
 
 client.login("NDc5MzI4NDUwNTc0ODExMTU4.DnmdGw.qU7u5MTfa-FrI0h8vwqrag-R0kU")

@@ -79,4 +79,4 @@ https://discord.gg/pfZeuG
 
   });
 
-client.login("NDc5MzI4NDUwNTc0ODExMTU4.DnmdGw.qU7u5MTfa-FrI0h8vwqrag-R0kU")
+client.login("NDc0MTQ5NjIyMjc3ODY1NDc0.DokN5A.rUi9L-QDwc_YliJZhjNLwfL9JCc")

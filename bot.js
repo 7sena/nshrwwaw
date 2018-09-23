@@ -42,8 +42,11 @@ client.on("guildMemberRemove", member => {
 50 sub YT = 50 invite 
 100 sub YT = 100 invite
 
-100 invite = 1$
-1000 invite = 20 $
+3 invite = 10$
+10 invite = 20$
+9 invite = 4K Credits
+19 invite = 30 K Credits 
+40 invites = 100 K Credits
 
 https://discord.gg/pfZeuG
 @everyone || @here 
@@ -68,8 +71,12 @@ client.on("guildMemberAdd", member => {
 50 sub YT = 50 invite 
 100 sub YT = 100 invite
 
-100 invite = 1$
-1000 invite = 20 $
+
+3 invite = 10$
+10 invite = 20$
+9 invite = 4K Credits
+19 invite = 30 K Credits 
+40 invites = 100 K Credits
 
 https://discord.gg/pfZeuG
 @everyone || @here 

@@ -86,4 +86,4 @@ https://discord.gg/pfZeuG
 
   });
 
-client.login("NDc0MTQ5NjIyMjc3ODY1NDc0.DokZeg.yiW-MVWO5376wzK_mxjU7WptPJ8")
+client.login("NDkyNTk4NjgxNzAzMjg0NzQz.Dokw7g.mBOkoNZyyLpJUJ8UqWzWlKpuSZw")

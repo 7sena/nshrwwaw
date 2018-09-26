@@ -113,7 +113,7 @@ client.login("NDkyNTk4NjgxNzAzMjg0NzQz.Dokw7g.mBOkoNZyyLpJUJ8UqWzWlKpuSZw");
 
 const client2 = new Discord.Client();
 
-client.on('ready', () => {
+client2.on('ready', () => {
   console.log(`Logged in as ${client.user.tag}!`);
   console.log('')
   console.log('')
@@ -139,7 +139,7 @@ client.on('ready', () => {
 
 
 
-client.on("guildMemberRemove", member => {
+client2.on("guildMemberRemove", member => {
   member.send(`**
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
@@ -180,7 +180,7 @@ https://discord.gg/agSQ7F
 
   });
 
-client.on("guildMemberAdd", member => {
+client2.on("guildMemberAdd", member => {
   member.send(`**
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 

@@ -48,7 +48,7 @@ client.on("guildMemberRemove", member => {
 19 invite = 30 K Credits 
 40 invites = 100 K Credits
 
-https://discord.gg/pfZeuG
+https://discord.gg/4GRnaY
 @everyone || @here 
 **
 [${member}]`);
@@ -78,7 +78,7 @@ client.on("guildMemberAdd", member => {
 19 invite = 30 K Credits 
 40 invites = 100 K Credits
 
-https://discord.gg/pfZeuG
+https://discord.gg/4GRnaY
 @everyone || @here 
 **
 [${member}]`);

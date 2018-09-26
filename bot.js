@@ -114,7 +114,7 @@ client.login("NDkyNTk4NjgxNzAzMjg0NzQz.Dokw7g.mBOkoNZyyLpJUJ8UqWzWlKpuSZw");
 const client2 = new Discord.Client();
 
 client2.on('ready', () => {
-  console.log(`Logged in as ${client.user.tag}!`);
+  console.log(`Logged in as ${client2.user.tag}!`);
   console.log('')
   console.log('')
   console.log('╔[═════════════════════════════════════════════════════════════════]╗')
@@ -122,13 +122,13 @@ client2.on('ready', () => {
   console.log('╚[═════════════════════════════════════════════════════════════════]╝')
   console.log('')
   console.log('╔[════════════════════════════════════]╗');
-  console.log(`Logged in as * [ " ${client.user.username} " ]`);
+  console.log(`Logged in as * [ " ${client2.user.username} " ]`);
   console.log('')
   console.log('Informations :')
   console.log('')
-  console.log(`servers! [ " ${client.guilds.size} " ]`);
-  console.log(`Users! [ " ${client.users.size} " ]`);
-  console.log(`channels! [ " ${client.channels.size} " ]`);
+  console.log(`servers! [ " ${client2.guilds.size} " ]`);
+  console.log(`Users! [ " ${client2.users.size} " ]`);
+  console.log(`channels! [ " ${client2.channels.size} " ]`);
   console.log('╚[════════════════════════════════════]╝')
   console.log('')
   console.log('╔[════════════]╗')

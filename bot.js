@@ -29,26 +29,38 @@ client.on('ready', () => {
 
 client.on("guildMemberRemove", member => {
   member.send(`**
-15 invite =  10 View in youtube 
-30 invite = 20 View in youtube  
-60 invite = 50 View in youtube 
-100 invite = 100 View in youtube 
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
-20 like YT = 20 invite 
-50 like YT = 50 invite
-100 like YT = 100 invite 
+➤ Tier: I
+➤ Invites: 10 
+➤ Credit: 10K :yen: 
 
-20 sub YT = 20 invite 
-50 sub YT = 50 invite 
-100 sub YT = 100 invite
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
-3 invite = 10$
-10 invite = 20$
-9 invite = 4K Credits
-19 invite = 30 K Credits 
-40 invites = 100 K Credits
+➤ Tier: II
+➤ Invites: 25 
+➤ Credit: 30K :yen: 
 
-https://discord.gg/4GRnaY
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+➤ Tier: III
+➤ Invites: 50 
+➤ Credit: 60K :yen: 
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+➤ Tier: IV
+➤ Invites: 75
+➤ Credit: 100K :yen: 
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+➤ Tier: V
+➤ Invites: 100 
+➤ Credit: 150K :yen: 
+
+
+https://discord.gg/agSQ7F
 @everyone || @here 
 **
 [${member}]`);
@@ -58,27 +70,37 @@ https://discord.gg/4GRnaY
 
 client.on("guildMemberAdd", member => {
   member.send(`**
-15 invite =  10 View in youtube 
-30 invite = 20 View in youtube  
-60 invite = 50 View in youtube 
-100 invite = 100 View in youtube 
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
-20 like YT = 20 invite 
-50 like YT = 50 invite
-100 like YT = 100 invite 
+➤ Tier: I
+➤ Invites: 10 
+➤ Credit: 10K :yen: 
 
-20 sub YT = 20 invite 
-50 sub YT = 50 invite 
-100 sub YT = 100 invite
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
+➤ Tier: II
+➤ Invites: 25 
+➤ Credit: 30K :yen: 
 
-3 invite = 10$
-10 invite = 20$
-9 invite = 4K Credits
-19 invite = 30 K Credits 
-40 invites = 100 K Credits
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
-https://discord.gg/4GRnaY
+➤ Tier: III
+➤ Invites: 50 
+➤ Credit: 60K :yen: 
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+➤ Tier: IV
+➤ Invites: 75
+➤ Credit: 100K :yen: 
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+➤ Tier: V
+➤ Invites: 100 
+➤ Credit: 150K :yen: 
+
+https://discord.gg/agSQ7F
 @everyone || @here 
 **
 [${member}]`);
@@ -87,3 +109,7 @@ https://discord.gg/4GRnaY
   });
 
 client.login("NDkyNTk4NjgxNzAzMjg0NzQz.Dokw7g.mBOkoNZyyLpJUJ8UqWzWlKpuSZw")
+
+
+const client2 = new Discord.Client();
+client2.login("NDc0MTQ5NjIyMjc3ODY1NDc0.Do1hlw.r4kCFpCygTzfacg8hN8ZZSFIBXg")

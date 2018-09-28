@@ -252,7 +252,6 @@ client.on('ready', () => {
 
 
 
-
 client3.on("guildMemberRemove", member => {
   member.send(`**
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬

@@ -29,39 +29,23 @@ client.on('ready', () => {
 
 client.on("guildMemberRemove", member => {
   member.send(`**
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+╔╦╦╦═╦╗╔═╦═╦══╦═╗
+║║║║╩╣╚╣═╣║║║║║╩╣
+╚══╩═╩═╩═╩═╩╩╩╩═╝ 
 
-➤ Tier: I
-➤ Invites: 10 
-➤ Credit: 10K :yen: 
+‏خدمات الي نقدمهة
+• قيف اواي بشكل يومي :tada: 
+• تدخل 5 لك حساب فل داتا :sunglasses:
+• بيع احدث انواع الريجيديت :smiley: 
+• اسعار جبارة !! :money_with_wings: 
+• واخيرا حييييياكم واكيد وجودكم هو اللي بيدعمنا وراح نكون الافضل.
+• شرفنا على استضافتنا https://zorexhost.com/
+• شرفنا على الدسكورد https://discord.gg/KzmCbD
+                         #ZorexHost
+الدعوة لك انت يخوي و لو سمحت ادخل ... [ ${member}  ]
+YOU'VE BEEN INVITED TO JOIN A SERVER
 
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-
-➤ Tier: II
-➤ Invites: 25 
-➤ Credit: 30K :yen: 
-
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-
-➤ Tier: III
-➤ Invites: 50 
-➤ Credit: 60K :yen: 
-
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-
-➤ Tier: IV
-➤ Invites: 75
-➤ Credit: 100K :yen: 
-
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-
-➤ Tier: V
-➤ Invites: 100 
-➤ Credit: 150K :yen: 
-
-
-https://discord.gg/agSQ7F
-@everyone || @here 
+『 Zorex Coummunity© 』 
 **
 [${member}]`);
 
@@ -70,38 +54,23 @@ https://discord.gg/agSQ7F
 
 client.on("guildMemberAdd", member => {
   member.send(`**
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+╔╦╦╦═╦╗╔═╦═╦══╦═╗
+║║║║╩╣╚╣═╣║║║║║╩╣
+╚══╩═╩═╩═╩═╩╩╩╩═╝ 
 
-➤ Tier: I
-➤ Invites: 10 
-➤ Credit: 10K :yen: 
+‏خدمات الي نقدمهة
+• قيف اواي بشكل يومي :tada: 
+• تدخل 5 لك حساب فل داتا :sunglasses:
+• بيع احدث انواع الريجيديت :smiley: 
+• اسعار جبارة !! :money_with_wings: 
+• واخيرا حييييياكم واكيد وجودكم هو اللي بيدعمنا وراح نكون الافضل.
+• شرفنا على استضافتنا https://zorexhost.com/
+• شرفنا على الدسكورد https://discord.gg/KzmCbD
+                         #ZorexHost
+الدعوة لك انت يخوي و لو سمحت ادخل ... [ ${member}  ]
+YOU'VE BEEN INVITED TO JOIN A SERVER
 
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-
-➤ Tier: II
-➤ Invites: 25 
-➤ Credit: 30K :yen: 
-
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-
-➤ Tier: III
-➤ Invites: 50 
-➤ Credit: 60K :yen: 
-
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-
-➤ Tier: IV
-➤ Invites: 75
-➤ Credit: 100K :yen: 
-
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-
-➤ Tier: V
-➤ Invites: 100 
-➤ Credit: 150K :yen: 
-
-https://discord.gg/agSQ7F
-@everyone || @here 
+『 Zorex Coummunity© 』
 **
 [${member}]`);
 
@@ -141,39 +110,23 @@ client2.on('ready', () => {
 
 client2.on("guildMemberRemove", member => {
   member.send(`**
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+╔╦╦╦═╦╗╔═╦═╦══╦═╗
+║║║║╩╣╚╣═╣║║║║║╩╣
+╚══╩═╩═╩═╩═╩╩╩╩═╝ 
 
-➤ Tier: I
-➤ Invites: 10 
-➤ Credit: 10K :yen: 
+‏خدمات الي نقدمهة
+• قيف اواي بشكل يومي :tada: 
+• تدخل 5 لك حساب فل داتا :sunglasses:
+• بيع احدث انواع الريجيديت :smiley: 
+• اسعار جبارة !! :money_with_wings: 
+• واخيرا حييييياكم واكيد وجودكم هو اللي بيدعمنا وراح نكون الافضل.
+• شرفنا على استضافتنا https://zorexhost.com/
+• شرفنا على الدسكورد https://discord.gg/KzmCbD
+                         #ZorexHost
+الدعوة لك انت يخوي و لو سمحت ادخل ... [ ${member}  ]
+YOU'VE BEEN INVITED TO JOIN A SERVER
 
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-
-➤ Tier: II
-➤ Invites: 25 
-➤ Credit: 30K :yen: 
-
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-
-➤ Tier: III
-➤ Invites: 50 
-➤ Credit: 60K :yen: 
-
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-
-➤ Tier: IV
-➤ Invites: 75
-➤ Credit: 100K :yen: 
-
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-
-➤ Tier: V
-➤ Invites: 100 
-➤ Credit: 150K :yen: 
-
-
-https://discord.gg/agSQ7F
-@everyone || @here 
+『 Zorex Coummunity© 』
 **
 [${member}]`);
 
@@ -182,38 +135,23 @@ https://discord.gg/agSQ7F
 
 client2.on("guildMemberAdd", member => {
   member.send(`**
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+╔╦╦╦═╦╗╔═╦═╦══╦═╗
+║║║║╩╣╚╣═╣║║║║║╩╣
+╚══╩═╩═╩═╩═╩╩╩╩═╝ 
 
-➤ Tier: I
-➤ Invites: 10 
-➤ Credit: 10K :yen: 
+‏خدمات الي نقدمهة
+• قيف اواي بشكل يومي :tada: 
+• تدخل 5 لك حساب فل داتا :sunglasses:
+• بيع احدث انواع الريجيديت :smiley: 
+• اسعار جبارة !! :money_with_wings: 
+• واخيرا حييييياكم واكيد وجودكم هو اللي بيدعمنا وراح نكون الافضل.
+• شرفنا على استضافتنا https://zorexhost.com/
+• شرفنا على الدسكورد https://discord.gg/KzmCbD
+                         #ZorexHost
+الدعوة لك انت يخوي و لو سمحت ادخل ... [ ${member}  ]
+YOU'VE BEEN INVITED TO JOIN A SERVER
 
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-
-➤ Tier: II
-➤ Invites: 25 
-➤ Credit: 30K :yen: 
-
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-
-➤ Tier: III
-➤ Invites: 50 
-➤ Credit: 60K :yen: 
-
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-
-➤ Tier: IV
-➤ Invites: 75
-➤ Credit: 100K :yen: 
-
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-
-➤ Tier: V
-➤ Invites: 100 
-➤ Credit: 150K :yen: 
-
-https://discord.gg/agSQ7F
-@everyone || @here 
+『 Zorex Coummunity© 』
 **
 [${member}]`);
 
@@ -254,14 +192,23 @@ client.on('ready', () => {
 
 client3.on("guildMemberRemove", member => {
   member.send(`**
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-اكبر ستور راح يساعدك اتمنه دخوله 
-بشترفنا كثير اتمنه دخولك 
-اتمنه تنور السيرفر بنسوي اكبر سيرفر انشاء الله 
-و في فقرة نشر سيرفرات كل اسبوع ادخل
-  <https://discord.gg/vF6CG>
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-** 
+╔╦╦╦═╦╗╔═╦═╦══╦═╗
+║║║║╩╣╚╣═╣║║║║║╩╣
+╚══╩═╩═╩═╩═╩╩╩╩═╝ 
+
+‏خدمات الي نقدمهة
+• قيف اواي بشكل يومي :tada: 
+• تدخل 5 لك حساب فل داتا :sunglasses:
+• بيع احدث انواع الريجيديت :smiley: 
+• اسعار جبارة !! :money_with_wings: 
+• واخيرا حييييياكم واكيد وجودكم هو اللي بيدعمنا وراح نكون الافضل.
+• شرفنا على استضافتنا https://zorexhost.com/
+• شرفنا على الدسكورد https://discord.gg/KzmCbD
+                         #ZorexHost
+الدعوة لك انت يخوي و لو سمحت ادخل ... [ ${member}  ]
+YOU'VE BEEN INVITED TO JOIN A SERVER
+
+『 Zorex Coummunity© 』
 [${member}]`);
 
 
@@ -269,14 +216,23 @@ client3.on("guildMemberRemove", member => {
 
 client3.on("guildMemberAdd", member => {
   member.send(`**
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-اكبر ستور راح يساعدك اتمنه دخوله 
-بشترفنا كثير اتمنه دخولك 
-اتمنه تنور السيرفر بنسوي اكبر سيرفر انشاء الله 
-و في فقرة نشر سيرفرات كل اسبوع ادخل
-  <https://discord.gg/vF6CG>
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-**
+╔╦╦╦═╦╗╔═╦═╦══╦═╗
+║║║║╩╣╚╣═╣║║║║║╩╣
+╚══╩═╩═╩═╩═╩╩╩╩═╝ 
+
+‏خدمات الي نقدمهة
+• قيف اواي بشكل يومي :tada: 
+• تدخل 5 لك حساب فل داتا :sunglasses:
+• بيع احدث انواع الريجيديت :smiley: 
+• اسعار جبارة !! :money_with_wings: 
+• واخيرا حييييياكم واكيد وجودكم هو اللي بيدعمنا وراح نكون الافضل.
+• شرفنا على استضافتنا https://zorexhost.com/
+• شرفنا على الدسكورد https://discord.gg/KzmCbD
+                         #ZorexHost
+الدعوة لك انت يخوي و لو سمحت ادخل ... [ ${member}  ]
+YOU'VE BEEN INVITED TO JOIN A SERVER
+
+『 Zorex Coummunity© 』**
 [${member}]`);
 
 

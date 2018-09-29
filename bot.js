@@ -158,7 +158,7 @@ YOU'VE BEEN INVITED TO JOIN A SERVER
 
   });
 
-client2.login("NDc0MTQ5NjIyMjc3ODY1NDc0.Do1hlw.r4kCFpCygTzfacg8hN8ZZSFIBXg");
+client2.login("NDc0MTQ5NjIyMjc3ODY1NDc0.DpC9Lg.c7A0HYWy0pf6GgzmbnDh7HLtEyA");
 
 
 const client3 = new Discord.Client();
@@ -238,4 +238,4 @@ YOU'VE BEEN INVITED TO JOIN A SERVER
 
   });
 
-client3.login("NDk0ODk5NDQ0NTAwNjYwMjQ3.Do6PVA.ytKdF8wCq_RA1VGs6MLE0ZxswbM");
+client3.login("NDk0ODk5NDQ0NTAwNjYwMjQ3.DpDCyA.lSAA6i-mmydxG6wiqFgKrSY7B9o");

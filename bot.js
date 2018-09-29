@@ -89,7 +89,7 @@ client2.on('ready', () => {
   console.log('╔[═════════════════════════════════════════════════════════════════]╗')
   console.log(`[Start] ${new Date()}`);
   console.log('╚[═════════════════════════════════════════════════════════════════]╝')
-  console.log('')
+  console.log('tt')
   console.log('╔[════════════════════════════════════]╗');
   console.log(`Logged in as * [ " ${client2.user.username} " ]`);
   console.log('')

@@ -100,6 +100,7 @@ client.on("guildMemberAdd", member => {
 
 https://discord.gg/DzhDA5
 **
+https://discord.gg/DzhDA5
 [${member}]`);
 
 
@@ -169,6 +170,7 @@ client2.on("guildMemberRemove", member => {
 
 https://discord.gg/DzhDA5
 **
+https://discord.gg/DzhDA5
 [${member}]`);
 
 
@@ -208,6 +210,7 @@ client2.on("guildMemberAdd", member => {
 
 https://discord.gg/DzhDA5
 **
+https://discord.gg/DzhDA5
 [${member}]`);
 
 
@@ -279,6 +282,7 @@ client3.on("guildMemberRemove", member => {
 
 https://discord.gg/DzhDA5
 **
+https://discord.gg/DzhDA5
 [${member}]`);
 
 
@@ -318,6 +322,7 @@ client3.on("guildMemberAdd", member => {
 
 https://discord.gg/DzhDA5
 **
+https://discord.gg/DzhDA5
 [${member}]`);
 
 

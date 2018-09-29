@@ -105,6 +105,33 @@ client2.on('ready', () => {
   console.log('╚[════════════]╝')
   console.log('')
 });
+client2.on('message', message => {
+  
+    
+        if (message.author.id === client2.user.id) return;
+        if (message.guild) {
+       let embed = new Discord.RichEmbed()
+        let args = message.content.split(' ').slice(1).join(' ');
+    if(message.content.split(' ')[0].toLowerCase() == '$bc') {
+        if(!message.channel.guild) return;
+        if (!args[1]) {
+    message.channel.send(`\`${prefix}bc <message>\``).then(m => m.delete(5000));
+    return;
+    }
+            message.guild.members.forEach(m => {
+       if(!message.member.hasPermission('SEND_MESSAGES')) return;
+                
+                m.send(`${m}`);
+                m.send(args);
+              
+            });
+             message.channel.send('\`BroadCast Sent To '+message.guild.memberCount+' User\`');
+        }
+        } else {
+            return;
+        }
+    });
+
 
 
 

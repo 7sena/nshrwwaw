@@ -119,7 +119,7 @@ client2.on('ready', () => {
   console.log('╔[═════════════════════════════════════════════════════════════════]╗')
   console.log(`[Start] ${new Date()}`);
   console.log('╚[═════════════════════════════════════════════════════════════════]╝')
-  console.log('t')
+  console.log('')
   console.log('╔[════════════════════════════════════]╗');
   console.log(`Logged in as * [ " ${client2.user.username} " ]`);
   console.log('')
@@ -218,7 +218,7 @@ https://discord.gg/ebAp7w
 
   });
 
-client2.login("NDc0MTQ5NjIyMjc3ODY1NDc0.DpC9Lg.c7A0HYWy0pf6GgzmbnDh7HLtEyA");
+client2.login("NDk1Njc4MTAzOTczMjY1NDEw.DpKYQQ.wLlie8tNTsgTlNh2Ptc4mzSdD-Y");
 
 
 const client3 = new Discord.Client();

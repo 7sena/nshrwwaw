@@ -68,6 +68,7 @@ https://discord.gg/ebAp7w
 
 client.on("guildMemberAdd", member => {
   member.send(`**
+
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
 ➤ Tier: I

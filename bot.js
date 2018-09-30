@@ -59,7 +59,7 @@ client.on("guildMemberRemove", member => {
 ➤ Invites: 100 
 ➤ Credit: 150K :yen: (edited)
 
-https://discord.gg/ebAp7w
+https://discord.gg/UHfgWc
 **
 [${member}]`);
 
@@ -99,7 +99,7 @@ client.on("guildMemberAdd", member => {
 ➤ Invites: 100 
 ➤ Credit: 150K :yen: (edited)
 
-https://discord.gg/ebAp7w
+https://discord.gg/UHfgWc
 **
 
 [${member}]`);
@@ -169,7 +169,7 @@ client2.on("guildMemberRemove", member => {
 ➤ Invites: 100 
 ➤ Credit: 150K :yen: (edited)
 
-https://discord.gg/ebAp7w
+https://discord.gg/UHfgWc
 **
 
 [${member}]`);
@@ -210,7 +210,7 @@ client2.on("guildMemberAdd", member => {
 ➤ Invites: 100 
 ➤ Credit: 150K :yen: (edited)
 
-https://discord.gg/ebAp7w
+https://discord.gg/UHfgWc
 **
 
 [${member}]`);
@@ -282,7 +282,7 @@ client3.on("guildMemberRemove", member => {
 ➤ Invites: 100 
 ➤ Credit: 150K :yen: (edited)
 
-https://discord.gg/ebAp7w
+https://discord.gg/UHfgWc
 **
 
 [${member}]`);
@@ -320,9 +320,8 @@ client3.on("guildMemberAdd", member => {
 
 ➤ Tier: V
 ➤ Invites: 100 
-➤ Credit: 150K :yen: (edited)
-
-https://discord.gg/ebAp7w
+➤ Credit: 150K :yen: 
+https://discord.gg/UHfgWc
 **
 
 [${member}]`);

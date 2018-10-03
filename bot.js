@@ -2,7 +2,7 @@ const Discord = require('discord.js');
 const client = new Discord.Client();
 
 client.on('ready', () => {
-  console.log(`Logged in as ${client.user.tag}!`);
+  console.log(`Logged in as!`);
   console.log('')
   console.log('')
   console.log('╔[═════════════════════════════════════════════════════════════════]╗')
@@ -112,7 +112,7 @@ client.login("NDkyNTk4NjgxNzAzMjg0NzQz.Dokw7g.mBOkoNZyyLpJUJ8UqWzWlKpuSZw");
 const client2 = new Discord.Client();
 
 client2.on('ready', () => {
-  console.log(`Logged in as ${client2.user.tag}!`);
+  console.log(`Logged in as !`);
   console.log('')
   console.log('')
   console.log('╔[═════════════════════════════════════════════════════════════════]╗')
@@ -222,7 +222,7 @@ client2.login("NDk3MTAyOTM3MDQzMTA3ODYw.DpaS3g.ghrJkpJhpNRs52XYreNxfS9FFk8");
 const client3 = new Discord.Client();
 
 client.on('ready', () => {
-  console.log(`Logged in as ${client2.user.tag}!`);
+  console.log(`Logged in as !`);
   console.log('')
   console.log('')
   console.log('╔[═════════════════════════════════════════════════════════════════]╗')

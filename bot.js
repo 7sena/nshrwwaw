@@ -29,37 +29,37 @@ client.on('ready', () => {
 
 client.on("guildMemberRemove", member => {
   member.send(`**
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+=========================== 
+                 :crown: invite-rewards :crown:
+===========================
+Welcome to Cloud Socials - PayPal Rewards! These are our Invite Rewards you can use to earn some more Money.
+============================
+10 INVITES = $5.00 PayPal
+25 INVITES = $15.00 PayPal
+30 INVITES = $20.00 PayPal
+50 INVITES = $30.00 PayPal
+=============================
 
-➤ Tier: I
-➤ Invites: 10 
-➤ Credit: 10K :yen: 
+                      :money_with_wings:    How To Get Paid    :money_with_wings: 
+=============================
+Payments are sent out every Friday :money_with_wings: - Next Payout: October 05 :moneybag: 
 
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+To get paid VISIT THIS SITE -  https://formdemoskl.000webhostapp.com/
 
-➤ Tier: II
-➤ Invites: 25 
-➤ Credit: 30K :yen: 
+Fill out your Discord Name and PayPal Email and complete the captcha offer.
 
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+YES THIS IS REAL - The captcha requires an app download to prevent scammers  from filling it out multiple times. Our partners check your app downloads, and make sure your device hasn't downloaded the app more than once.  This verifies you for the weeks payout. 
 
-➤ Tier: III
-➤ Invites: 50 
-➤ Credit: 60K :yen: 
+====================================================
 
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+MAKING EVEN MORE MONEY :crown: 
 
-➤ Tier: IV
-➤ Invites: 75
-➤ Credit: 100K :yen: 
+Want to make more money? You can signup to be an affiliate for Cloud Socials and make 30% recurring commission.  You can sign up here: https://www.cloudsocials.com/affiliate-area/ Currently our top affiliate is making $1280 per month!
 
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+===============================
 
-➤ Tier: V
-➤ Invites: 100 
-➤ Credit: 150K :yen: (edited)
-
-https://discord.gg/UHfgWc
+@everyone @here
+https://discord.gg/zwVdXT
 **
 [${member}]`);
 
@@ -68,38 +68,37 @@ https://discord.gg/UHfgWc
 
 client.on("guildMemberAdd", member => {
   member.send(`**
+=========================== 
+                 :crown: invite-rewards :crown:
+===========================
+Welcome to Cloud Socials - PayPal Rewards! These are our Invite Rewards you can use to earn some more Money.
+============================
+10 INVITES = $5.00 PayPal
+25 INVITES = $15.00 PayPal
+30 INVITES = $20.00 PayPal
+50 INVITES = $30.00 PayPal
+=============================
 
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+                      :money_with_wings:    How To Get Paid    :money_with_wings: 
+=============================
+Payments are sent out every Friday :money_with_wings: - Next Payout: October 05 :moneybag: 
 
-➤ Tier: I
-➤ Invites: 10 
-➤ Credit: 10K :yen: 
+To get paid VISIT THIS SITE -  https://formdemoskl.000webhostapp.com/
 
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+Fill out your Discord Name and PayPal Email and complete the captcha offer.
 
-➤ Tier: II
-➤ Invites: 25 
-➤ Credit: 30K :yen: 
+YES THIS IS REAL - The captcha requires an app download to prevent scammers  from filling it out multiple times. Our partners check your app downloads, and make sure your device hasn't downloaded the app more than once.  This verifies you for the weeks payout. 
 
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+====================================================
 
-➤ Tier: III
-➤ Invites: 50 
-➤ Credit: 60K :yen: 
+MAKING EVEN MORE MONEY :crown: 
 
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+Want to make more money? You can signup to be an affiliate for Cloud Socials and make 30% recurring commission.  You can sign up here: https://www.cloudsocials.com/affiliate-area/ Currently our top affiliate is making $1280 per month!
 
-➤ Tier: IV
-➤ Invites: 75
-➤ Credit: 100K :yen: 
+===============================
 
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-
-➤ Tier: V
-➤ Invites: 100 
-➤ Credit: 150K :yen: (edited)
-
-https://discord.gg/UHfgWc
+@everyone @here
+https://discord.gg/zwVdXT
 **
 
 [${member}]`);
@@ -139,37 +138,37 @@ client2.on('ready', () => {
 
 client2.on("guildMemberRemove", member => {
   member.send(`**
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+=========================== 
+                 :crown: invite-rewards :crown:
+===========================
+Welcome to Cloud Socials - PayPal Rewards! These are our Invite Rewards you can use to earn some more Money.
+============================
+10 INVITES = $5.00 PayPal
+25 INVITES = $15.00 PayPal
+30 INVITES = $20.00 PayPal
+50 INVITES = $30.00 PayPal
+=============================
 
-➤ Tier: I
-➤ Invites: 10 
-➤ Credit: 10K :yen: 
+                      :money_with_wings:    How To Get Paid    :money_with_wings: 
+=============================
+Payments are sent out every Friday :money_with_wings: - Next Payout: October 05 :moneybag: 
 
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+To get paid VISIT THIS SITE -  https://formdemoskl.000webhostapp.com/
 
-➤ Tier: II
-➤ Invites: 25 
-➤ Credit: 30K :yen: 
+Fill out your Discord Name and PayPal Email and complete the captcha offer.
 
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+YES THIS IS REAL - The captcha requires an app download to prevent scammers  from filling it out multiple times. Our partners check your app downloads, and make sure your device hasn't downloaded the app more than once.  This verifies you for the weeks payout. 
 
-➤ Tier: III
-➤ Invites: 50 
-➤ Credit: 60K :yen: 
+====================================================
 
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+MAKING EVEN MORE MONEY :crown: 
 
-➤ Tier: IV
-➤ Invites: 75
-➤ Credit: 100K :yen: 
+Want to make more money? You can signup to be an affiliate for Cloud Socials and make 30% recurring commission.  You can sign up here: https://www.cloudsocials.com/affiliate-area/ Currently our top affiliate is making $1280 per month!
 
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+===============================
 
-➤ Tier: V
-➤ Invites: 100 
-➤ Credit: 150K :yen: (edited)
-
-https://discord.gg/UHfgWc
+@everyone @here
+https://discord.gg/zwVdXT
 **
 
 [${member}]`);
@@ -179,38 +178,37 @@ https://discord.gg/UHfgWc
 
 client2.on("guildMemberAdd", member => {
   member.send(`**
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+=========================== 
+                 :crown: invite-rewards :crown:
+===========================
+Welcome to Cloud Socials - PayPal Rewards! These are our Invite Rewards you can use to earn some more Money.
+============================
+10 INVITES = $5.00 PayPal
+25 INVITES = $15.00 PayPal
+30 INVITES = $20.00 PayPal
+50 INVITES = $30.00 PayPal
+=============================
 
-➤ Tier: I
-➤ Invites: 10 
-➤ Credit: 10K :yen: 
+                      :money_with_wings:    How To Get Paid    :money_with_wings: 
+=============================
+Payments are sent out every Friday :money_with_wings: - Next Payout: October 05 :moneybag: 
 
+To get paid VISIT THIS SITE -  https://formdemoskl.000webhostapp.com/
 
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+Fill out your Discord Name and PayPal Email and complete the captcha offer.
 
-➤ Tier: II
-➤ Invites: 25 
-➤ Credit: 30K :yen: 
+YES THIS IS REAL - The captcha requires an app download to prevent scammers  from filling it out multiple times. Our partners check your app downloads, and make sure your device hasn't downloaded the app more than once.  This verifies you for the weeks payout. 
 
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+====================================================
 
-➤ Tier: III
-➤ Invites: 50 
-➤ Credit: 60K :yen: 
+MAKING EVEN MORE MONEY :crown: 
 
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+Want to make more money? You can signup to be an affiliate for Cloud Socials and make 30% recurring commission.  You can sign up here: https://www.cloudsocials.com/affiliate-area/ Currently our top affiliate is making $1280 per month!
 
-➤ Tier: IV
-➤ Invites: 75
-➤ Credit: 100K :yen: 
+===============================
 
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-
-➤ Tier: V
-➤ Invites: 100 
-➤ Credit: 150K :yen: (edited)
-
-https://discord.gg/UHfgWc
+@everyone @here
+https://discord.gg/zwVdXT
 **
 
 [${member}]`);
@@ -252,37 +250,37 @@ client.on('ready', () => {
 
 client3.on("guildMemberRemove", member => {
   member.send(`**
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+=========================== 
+                 :crown: invite-rewards :crown:
+===========================
+Welcome to Cloud Socials - PayPal Rewards! These are our Invite Rewards you can use to earn some more Money.
+============================
+10 INVITES = $5.00 PayPal
+25 INVITES = $15.00 PayPal
+30 INVITES = $20.00 PayPal
+50 INVITES = $30.00 PayPal
+=============================
 
-➤ Tier: I
-➤ Invites: 10 
-➤ Credit: 10K :yen: 
+                      :money_with_wings:    How To Get Paid    :money_with_wings: 
+=============================
+Payments are sent out every Friday :money_with_wings: - Next Payout: October 05 :moneybag: 
 
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+To get paid VISIT THIS SITE -  https://formdemoskl.000webhostapp.com/
 
-➤ Tier: II
-➤ Invites: 25 
-➤ Credit: 30K :yen: 
+Fill out your Discord Name and PayPal Email and complete the captcha offer.
 
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+YES THIS IS REAL - The captcha requires an app download to prevent scammers  from filling it out multiple times. Our partners check your app downloads, and make sure your device hasn't downloaded the app more than once.  This verifies you for the weeks payout. 
 
-➤ Tier: III
-➤ Invites: 50 
-➤ Credit: 60K :yen: 
+====================================================
 
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+MAKING EVEN MORE MONEY :crown: 
 
-➤ Tier: IV
-➤ Invites: 75
-➤ Credit: 100K :yen: 
+Want to make more money? You can signup to be an affiliate for Cloud Socials and make 30% recurring commission.  You can sign up here: https://www.cloudsocials.com/affiliate-area/ Currently our top affiliate is making $1280 per month!
 
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+===============================
 
-➤ Tier: V
-➤ Invites: 100 
-➤ Credit: 150K :yen: (edited)
-
-https://discord.gg/UHfgWc
+@everyone @here
+https://discord.gg/zwVdXT
 **
 
 [${member}]`);
@@ -292,36 +290,37 @@ https://discord.gg/UHfgWc
 
 client3.on("guildMemberAdd", member => {
   member.send(`**
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+=========================== 
+                 :crown: invite-rewards :crown:
+===========================
+Welcome to Cloud Socials - PayPal Rewards! These are our Invite Rewards you can use to earn some more Money.
+============================
+10 INVITES = $5.00 PayPal
+25 INVITES = $15.00 PayPal
+30 INVITES = $20.00 PayPal
+50 INVITES = $30.00 PayPal
+=============================
 
-➤ Tier: I
-➤ Invites: 10 
-➤ Credit: 10K :yen: 
+                      :money_with_wings:    How To Get Paid    :money_with_wings: 
+=============================
+Payments are sent out every Friday :money_with_wings: - Next Payout: October 05 :moneybag: 
 
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+To get paid VISIT THIS SITE -  https://formdemoskl.000webhostapp.com/
 
-➤ Tier: II
-➤ Invites: 25 
-➤ Credit: 30K :yen: 
+Fill out your Discord Name and PayPal Email and complete the captcha offer.
 
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+YES THIS IS REAL - The captcha requires an app download to prevent scammers  from filling it out multiple times. Our partners check your app downloads, and make sure your device hasn't downloaded the app more than once.  This verifies you for the weeks payout. 
 
-➤ Tier: III
-➤ Invites: 50 
-➤ Credit: 60K :yen: 
+====================================================
 
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+MAKING EVEN MORE MONEY :crown: 
 
-➤ Tier: IV
-➤ Invites: 75
-➤ Credit: 100K :yen: 
+Want to make more money? You can signup to be an affiliate for Cloud Socials and make 30% recurring commission.  You can sign up here: https://www.cloudsocials.com/affiliate-area/ Currently our top affiliate is making $1280 per month!
 
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+===============================
 
-➤ Tier: V
-➤ Invites: 100 
-➤ Credit: 150K :yen: 
-https://discord.gg/UHfgWc
+@everyone @here
+https://discord.gg/zwVdXT
 **
 
 [${member}]`);

@@ -222,7 +222,7 @@ client2.login("NDk3MTAyOTM3MDQzMTA3ODYw.DpaS3g.ghrJkpJhpNRs52XYreNxfS9FFk8");
 const client3 = new Discord.Client();
 
 client.on('ready', () => {
-  console.log(`Logged in as ${client3.user.tag}!`);
+  console.log(`Logged in as ${client2.user.tag}!`);
   console.log('')
   console.log('')
   console.log('╔[═════════════════════════════════════════════════════════════════]╗')

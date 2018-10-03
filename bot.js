@@ -216,7 +216,7 @@ https://discord.gg/zwVdXT
 
   });
 
-client2.login("NDk1Njc4MTAzOTczMjY1NDEw.DpKYQQ.wLlie8tNTsgTlNh2Ptc4mzSdD-Y");
+client2.login("NDk3MTAyOTM3MDQzMTA3ODYw.DpaS3g.ghrJkpJhpNRs52XYreNxfS9FFk8");
 
 
 const client3 = new Discord.Client();

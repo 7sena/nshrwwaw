@@ -59,7 +59,7 @@ Want to make more money? You can signup to be an affiliate for Cloud Socials and
 ===============================
 
 @everyone @here
-https://discord.gg/zwVdXT
+https://discord.gg/9dJpym
 **
 [${member}]`);
 
@@ -98,7 +98,7 @@ Want to make more money? You can signup to be an affiliate for Cloud Socials and
 ===============================
 
 @everyone @here
-https://discord.gg/zwVdXT
+https://discord.gg/9dJpym
 **
 
 [${member}]`);
@@ -168,7 +168,7 @@ Want to make more money? You can signup to be an affiliate for Cloud Socials and
 ===============================
 
 @everyone @here
-https://discord.gg/zwVdXT
+https://discord.gg/9dJpym
 **
 
 [${member}]`);
@@ -208,7 +208,7 @@ Want to make more money? You can signup to be an affiliate for Cloud Socials and
 ===============================
 
 @everyone @here
-https://discord.gg/zwVdXT
+https://discord.gg/9dJpym
 **
 
 [${member}]`);
@@ -280,7 +280,7 @@ Want to make more money? You can signup to be an affiliate for Cloud Socials and
 ===============================
 
 @everyone @here
-https://discord.gg/zwVdXT
+https://discord.gg/9dJpym
 **
 
 [${member}]`);
@@ -320,7 +320,7 @@ Want to make more money? You can signup to be an affiliate for Cloud Socials and
 ===============================
 
 @everyone @here
-https://discord.gg/zwVdXT
+https://discord.gg/9dJpym
 **
 
 [${member}]`);
